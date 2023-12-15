@@ -2,7 +2,8 @@
 ## Niniejsza dokumentacja zawiera:<br />
 ## 1. Przeznaczenie projektu
 ## 2. Analiza ryzyka
-W pliku "analizaryzyka.docx" znajduje się  
+Plik "analizaryzyka.docx" zawiera kompleksową analizę ryzyka w obszarach IT, bieznesowym i projektowym przeprowadzoną przy użyciu metody oceny ryzyka zwanej risk score
+1. Cos
 ## 3. Kosztorys<br />
 
 ## 4. Diagram Gantta<br />
