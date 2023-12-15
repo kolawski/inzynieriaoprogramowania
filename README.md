@@ -1,5 +1,4 @@
 # Allocatron Plus<br />
-## Niniejsza dokumentacja zawiera:<br />
 ## 1. Przeznaczenie projektu
 Allocatron Plus to system skierowany zarówno do odbiorców biznesowych, organizacji jak i klientów prywatnych. Jego celem jest optymalne grupowanie zasobów w czasie. Zasoby, ich cechy i waga są określane przez użytkownika. Wskazuje on także pożądane połączenia między właściwościami i wagę ich relacji, która jest podstawą do utworzenia połączeń. Zastosowanie systemu pozwala na efektywne przetworzenie dużej ilości różnych czynników wpływających na przyporządkowanie grup zasobów w czasie, a jego główną zaletą jest uniwersalność i mnogość zastosowań. Wymaga ono natomiast od użytkownika końcowego umiejętności odwzorowania  realnych problemów w postaci abstrakcyjnych charakterystyk zasobów i relacji między nimi.
 
@@ -48,5 +47,5 @@ Plik "wykres Gantta.xlsx" przedstawia strukturę projektu, uwzględniając zaró
 		- przedstawiają sytuacje, które mogą stanowić utrudnienie dla prowadzneia projektu, ale nie powodują jego zawieszenia
 		- sprecyzowane, osiągalne, możliwe do zweryfikowania, realistyczne oraz mają określony czas zakończenia
 	- czerwone kamienie milowe (SMART)
-		- wymagają natychmiastowej uwagi, a ich niewłaściwe wykonanie może prowadzić do zawieszenia lub porzucenia projektu<br />
-Dokładne zaznaczenie kamieni milowych z zastosowaniem metody SMART i wykorzystanie klarownej kolorystyki w pliku "wykres Gantta.xlsx" są kluczowe dla skutecznego monitorowania postępu prac oraz identyfikacji krytycznych punktów wymagających specjalnej uwagi. Reagowanie na czerwone kamienei milowe jest niezbędne w celu uniknięciu potencjalnych opóźnień w realizacji projektu.
+		- wymagają natychmiastowej uwagi, a ich niewłaściwe wykonanie może prowadzić do zawieszenia lub porzucenia projektu
+	- Dokładne zaznaczenie kamieni milowych z zastosowaniem metody SMART i wykorzystanie klarownej kolorystyki w pliku "wykres Gantta.xlsx" są kluczowe dla skutecznego monitorowania postępu prac oraz identyfikacji krytycznych punktów wymagających specjalnej uwagi. Reagowanie na czerwone kamienei milowe jest niezbędne w celu uniknięciu potencjalnych opóźnień w realizacji projektu.
