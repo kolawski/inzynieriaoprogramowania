@@ -39,4 +39,4 @@ Plik "wykres Gantta.xlsx" przedstawia strukturę projektu, uwzględniając zaró
 		- sprecyzowane, osiągalne, możliwe do zweryfikowania, realistyczne oraz mają określony czas zakończenia
 	- czerwone kamienie milowe (SMART)
 		- wymagają natychmiastowej uwagi, a ich niewłaściwe wykonanie może prowadzić do zawieszenia lub porzucenia projektu<br />
-&nbsp Dokładne zaznaczenie kamieni milowych z zastosowaniem metody SMART i wykorzystanie klarownej kolorystyki w pliku "wykres Gantta.xlsx" są kluczowe dla skutecznego monitorowania postępu prac oraz identyfikacji krytycznych punktów wymagających specjalnej uwagi. Reagowanie na czerwone kamienei milowe jest niezbędne w celu uniknięciu potencjalnych opóźnień w realizacji projektu.
+Dokładne zaznaczenie kamieni milowych z zastosowaniem metody SMART i wykorzystanie klarownej kolorystyki w pliku "wykres Gantta.xlsx" są kluczowe dla skutecznego monitorowania postępu prac oraz identyfikacji krytycznych punktów wymagających specjalnej uwagi. Reagowanie na czerwone kamienei milowe jest niezbędne w celu uniknięciu potencjalnych opóźnień w realizacji projektu.
