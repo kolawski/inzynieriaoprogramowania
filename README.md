@@ -3,7 +3,13 @@
 ## 1. Przeznaczenie projektu
 ## 2. Analiza ryzyka
 Plik "analizaryzyka.docx" zawiera kompleksową analizę ryzyka w obszarach IT, bieznesowym i projektowym przeprowadzoną przy użyciu metody oceny ryzyka zwanej risk score
-1. Cos
+1. Wprowadzenie
+   - krótkie wprowadzenie celów analizy ryzyka
+2. Metodologia
+   - opis wykorzystanych metod risk score w analizie ryzyka
+3. Sfery Analizy ryzyka
+   - IT
+     -identyfikacja 
 ## 3. Kosztorys<br />
 
 ## 4. Diagram Gantta<br />
