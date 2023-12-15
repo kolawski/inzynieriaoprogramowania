@@ -1,4 +1,5 @@
 # Allocatron Plus<br />
+![image](https://github.com/kolawski/inzynieriaoprogramowania/assets/129399239/2a319258-abba-46d7-91f2-a084ea2e904c)
 ## 1. Przeznaczenie projektu
 Allocatron Plus to system skierowany zarówno do odbiorców biznesowych, organizacji jak i klientów prywatnych. Jego celem jest optymalne grupowanie zasobów w czasie. Zasoby, ich cechy i waga są określane przez użytkownika. Wskazuje on także pożądane połączenia między właściwościami i wagę ich relacji, która jest podstawą do utworzenia połączeń. Zastosowanie systemu pozwala na efektywne przetworzenie dużej ilości różnych czynników wpływających na przyporządkowanie grup zasobów w czasie, a jego główną zaletą jest uniwersalność i mnogość zastosowań. Wymaga ono natomiast od użytkownika końcowego umiejętności odwzorowania  realnych problemów w postaci abstrakcyjnych charakterystyk zasobów i relacji między nimi.
 
