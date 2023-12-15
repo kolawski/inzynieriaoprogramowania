@@ -33,20 +33,20 @@ Plik "analizaryzyka.docx" zawiera kompleksową analizę ryzyka w obszarach IT, b
 ## 3. Kosztorys<br />
 Plik "budżet budżet.xlsx" przedstawia kosztorys uwzględniający wszystkie wydatki i szacowany przychód płynący z wykonania oraz wdrożenia systemu Allocatron Plus.
 Plik posiada informacje dotyczące:
-	- pracowników:
-		- rodzaje umów
-		- stawki przewidziane dla poszczególnych stanowisk z rozróżnieniem na kwotę brutto oraz brutto brutto
-		- linki do stron internetowych na podstawie których oszacowane zostały koszty zatrudnienia
-	- wymagań sprzętowych i fizyczynych:
-		- koszty wynajmu sprzętu 
-		- koszty wynajmu przestrzeni biurowej
-		- linki do stron internetowych na podstawie których oszacowane zostały koszty wynajmu sprzętu oraz wynajmu przestrzeni przeznaczonej do pracy
-	- całkowitych kosztów potrzebnych do realizacji projektu:
-		- podsumowanie ile wyniesie miesięczny koszt wykonania projektu w czasie jego planowania oraz implementacji i ile wyniesie miesięczne utrzymanie projektu po jego wdrożeni
-	- dochodu:
-		- źródła dochodu
-		- czas po jakim projekt zacznie na siebie zarabiać
-		- ile będzie wynosił przychód
+   - pracowników:
+      - rodzaje umów
+      - stawki przewidziane dla poszczególnych stanowisk z rozróżnieniem na kwotę brutto oraz brutto brutto
+      - linki do stron internetowych na podstawie których oszacowane zostały koszty zatrudnienia
+   - wymagań sprzętowych i fizyczynych:
+      - koszty wynajmu sprzętu 
+      - koszty wynajmu przestrzeni biurowej
+      - linki do stron internetowych na podstawie których oszacowane zostały koszty wynajmu sprzętu oraz wynajmu przestrzeni przeznaczonej do pracy
+   - całkowitych kosztów potrzebnych do realizacji projektu:
+      - podsumowanie ile wyniesie miesięczny koszt wykonania projektu w czasie jego planowania oraz implementacji i ile wyniesie miesięczne utrzymanie projektu po jego wdrożeni
+   - dochodu:
+      - źródła dochodu
+      - czas po jakim projekt zacznie na siebie zarabiać
+      - ile będzie wynosił przychód
 ## 4. Diagram Gantta<br />
 Plik "wykres Gantta.xlsx" przedstawia strukturę projektu, uwzględniając zarówno etapy prac dla zespołu, jak i indywidualne zadania przypisane do zespołu, jak i indywidualne zadania przypisane do poszczególnych pracowników. Poniżej znajduje się kluczowa informacja dotycząca kamieni milowych, z uzyciem metody SMART oraz ich oznaczeń kolorystycznych:
 1. Podział na etapy prac dla zespołu
