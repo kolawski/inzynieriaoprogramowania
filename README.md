@@ -1,6 +1,12 @@
 # Allocatron Plus<br />
 ## Niniejsza dokumentacja zawiera:<br />
 ## 1. Przeznaczenie projektu
+Allocatron Plus to system skierowany zarówno do odbiorców biznesowych, organizacji jak i klientów prywatnych. Jego celem jest optymalne grupowanie zasobów w czasie. Zasoby, ich cechy i waga są określane przez użytkownika. Wskazuje on także pożądane połączenia między właściwościami i wagę ich relacji, która jest podstawą do utworzenia połączeń. Zastosowanie systemu pozwala na efektywne przetworzenie dużej ilości różnych czynników wpływających na przyporządkowanie grup zasobów w czasie, a jego główną zaletą jest uniwersalność i mnogość zastosowań. Wymaga ono natomiast od użytkownika końcowego umiejętności odwzorowania  realnych problemów w postaci abstrakcyjnych charakterystyk zasobów i relacji między nimi.
+
+Przykładowymi zastosowaniami może być przydzielanie grupy zadań do pracowników w zależności od ich kompetencji do wykonania danego zadania, tak aby zminimalizować czas pracy całego zespołu nad wszystkimi zadaniami. W ogólnym ujęciu, zaletą A+ jest więc umiejętność oceny wpływu drobnych zmian na optymalność działania całych systemów. Umiejętność ta wykorzystywana jest do pokazania użytkownikowi najlepszych powiązań wskazanych zasobów w czasie.
+
+Na podstawie przygotowanych przez użytkownika modeli danych, system może też wskazać najbardziej optymalny sposób ogrzewania pomieszczeń w budynku, ułożyć szkolny plan zajęć, czy harmonogram sprzątania.
+
 ## 2. Analiza ryzyka
 Plik "analizaryzyka.docx" zawiera kompleksową analizę ryzyka w obszarach IT, bieznesowym, projektowym i indywidualnym przeprowadzoną przy użyciu metody oceny ryzyka zwanej risk score
 1. Wprowadzenie
