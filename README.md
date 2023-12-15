@@ -31,7 +31,11 @@ Plik "analizaryzyka.docx" zawiera kompleksową analizę ryzyka w obszarach IT, b
 5. Rekomendacje
    - propozycje działań prewencyjnych i zaradczych w kontekście wykrytych ryzyk
 ## 3. Kosztorys<br />
-
+Plik "budżet budżet.xlsx" posiada kosztorys uwzględniający wszystkie wydatki i szacowany przychód płynący z wykonania oraz wdrożenia systemu Allocatron Plus.
+W pierwszej części dokumentu znajdują się rodzaje umów i stawki przewidziane dla poszczególnych pracowników z rozróżnieniem na kwotę brutto oraz brutto brutto. 
+W pliku znajdują się także linki do stron internetowych na podstawie których oszacowane zostały zarówno koszty zatrudnienia pracowników jak i wymagań sprzętowych. 
+Na końcu pliku znajduje się podsumowanie ile wyniesie miesięczny koszt wykonania projektu w czasie jego planowania oraz implementacji i ile wyniesie miesięczne utrzymanie projektu. 
+Znajdują się tam również informacje po jakim czasie projekt zacznie na siebie zarabiać i ile będzie wynosił przychód z uwzględnieniem żródeł tego przychodu.
 ## 4. Diagram Gantta<br />
 Plik "wykres Gantta.xlsx" przedstawia strukturę projektu, uwzględniając zarówno etapy prac dla zespołu, jak i indywidualne zadania przypisane do zespołu, jak i indywidualne zadania przypisane do poszczególnych pracowników. Poniżej znajduje się kluczowa informacja dotycząca kamieni milowych, z uzyciem metody SMART oraz ich oznaczeń kolorystycznych:
 1. Podział na etapy prac dla zespołu
