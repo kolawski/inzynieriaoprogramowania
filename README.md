@@ -27,4 +27,16 @@ Plik "analizaryzyka.docx" zawiera kompleksową analizę ryzyka w obszarach IT, b
 ## 3. Kosztorys<br />
 
 ## 4. Diagram Gantta<br />
-Plik "wykres Gantta.ods" zawiera harmonogram prac przewidywany na okres 6 miesięcy z podziałem na podstawowe zadania całego zespołu oraz podział dla konkretnych pracowników. Uwzględnione zostały również kamienie milowe zaznaczone symbolem "*": kolor żółty oznacza moment, który może powodować komplikacje w projekcie, ale nie spowoduje wycofania się z niego (istnieje możliwość zastosowania alternatywnego rozwiązania), z kolei ten sam symbol w kolorze czerwonym oznacza moment krytyczny, który prowadzi do porzucenia prac nad projektem.
+Plik "wykres Gantta.xlsx" przedstawia strukturę projektu, uwzględniając zarówno etapy prac dla zespołu, jak i indywidualne zadania przypisane do zespołu, jak i indywidualne zadania przypisane do poszczególnych pracowników. Poniżej znajduje się kluczowa informacja dotycząca kamieni milowych, z uzyciem metody SMART oraz ich oznaczeń kolorystycznych:
+1. Podział na etapy prac dla zespołu
+	- strukturalne przedstawienie kolejnych faz projektu co umożliwia skuteczne zarządzanie postępem prac
+2. Podział na etapy prac dla pracowników
+	- przypisanie konkretnych zadań do poszczególnych członków zespołu, co sprzyja klarowności i odpowiedzialności
+3. Kamienie milowe
+	- oznaczone symbolem "*"
+	- żółte kamienie  milowe (SMART):
+		- przedstawiają sytuacje, które mogą stanowić utrudnienie dla prowadzneia projektu, ale nie powodują jego zawieszenia
+		- sprecyzowane, osiągalne, możliwe do zweryfikowania, realistyczne oraz mają określony czas zakończenia
+	- czerwone kamienie milowe (SMART)
+		- wymagają natychmiastowej uwagi, a ich niewłaściwe wykonanie może prowadzić do zawieszenia lub porzucenia projektu\
+Dokładne zaznaczenie kameini milowych z zastosowaniem metody SMART i wykorzystanie klarownej kolorystyki w pliku "wykres Gantta.xlsx" są kluczowe dla skutecznego monitorowania postępu prac oraz identyfikacji krytycznych punktów wymagających specjalnej uwagi. Reagowanie na czerwone kamienei milowe jest niezbędne w celu uniknięciu potencjalnych opóźnień w realizacji projektu.
