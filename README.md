@@ -9,7 +9,7 @@ Plik "analizaryzyka.docx" zawiera kompleksową analizę ryzyka w obszarach IT, b
    - opis wykorzystanych metod risk score w analizie ryzyka
 3. Sfery Analizy ryzyka
    - IT
-     -identyfikacja 
+      - identyfikacja zagrożeń w obszarze technologii informatycznych
 ## 3. Kosztorys<br />
 
 ## 4. Diagram Gantta<br />
